@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<stage1>
+  <maxWeakCount>10</maxWeakCount>
+  <stageThreshold>-1.4662697315216064e+00</stageThreshold>
+  <weakClassifiers>
+    <_>
+      <internalNodes>
+        0 -1 37285 -4.7479309141635895e-02</internalNodes>
+      <leafValues>
+        6.2528842687606812e-01 -8.5365855693817139e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 34630 2.4738136678934097e-02</internalNodes>
+      <leafValues>
+        -4.5464205741882324e-01 6.2757283449172974e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 53578 -2.2245418280363083e-02</internalNodes>
+      <leafValues>
+        4.5286253094673157e-01 -4.7350925207138062e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 3457 4.8919625580310822e-02</internalNodes>
+      <leafValues>
+        -3.4563815593719482e-01 5.3240942955017090e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 32809 -5.6934915482997894e-03</internalNodes>
+      <leafValues>
+        1.9932101666927338e-01 -7.6662677526473999e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 51043 1.4307152479887009e-02</internalNodes>
+      <leafValues>
+        1.9929452240467072e-01 -6.6672742366790771e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 44565 -1.2114232406020164e-02</internalNodes>
+      <leafValues>
+        2.0514200627803802e-01 -5.2516657114028931e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 58293 3.4702462144196033e-03</internalNodes>
+      <leafValues>
+        2.1273301541805267e-01 -6.4822036027908325e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 47603 1.8928892677649856e-03</internalNodes>
+      <leafValues>
+        -3.0710572004318237e-01 3.7170988321304321e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 49097 -1.0704313172027469e-04</internalNodes>
+      <leafValues>
+        1.9126085937023163e-01 -6.0054993629455566e-01</leafValues></_></weakClassifiers></stage1>
+</opencv_storage>
